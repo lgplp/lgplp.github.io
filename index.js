@@ -124,7 +124,7 @@ const routes = {
             <ul class="socials-section">
                 <li>
                     <a href="https://bsky.app/profile/lgplp.bsky.social" target="_blank" class="socials-link">
-                        <i class="fa-brands fa-twitter socials-icon"></i>
+                        <i class="fa-brands fa-bluesky socials-icon"></i>
                         <div>
                             <h4>Cuenta principal</h4>
                         </div>
@@ -132,7 +132,7 @@ const routes = {
                 </li>
                 <li>
                     <a href="https://bsky.app/profile/vtr-hater.bsky.social/" target="_blank" class="socials-link">
-                        <i class="fa-brands fa-twitter socials-icon"></i>
+                        <i class="fa-brands fa-bluesky socials-icon"></i>
                         <div>
                             <h4>🎨 Dibujitos</h4>
                         </div>
