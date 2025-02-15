@@ -51,7 +51,7 @@ const routes = {
 
             <ul class="skin-section">
                 <li>
-                <img src="assets/skin1.png" alt="mi skin :v">
+                <img src="assets/skin3.png" alt="mi skin :v">
                 </li>
             </ul>
         </section>
